@@ -2,5 +2,4 @@
 venv/
 __pycache__/
 *.pyc
-
-Add-Content .gitignore ".streamlit/secrets.toml"
+secrets.toml
